@@ -1,7 +1,6 @@
 /*
 Q. Find whether an array is sorted or not by returning a boolean. Do it recursively.
 
-
 */
 
 #include <iostream>
@@ -37,3 +36,4 @@ int main()
 
     return 0;
 }
+ 
