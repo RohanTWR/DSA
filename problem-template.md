@@ -25,27 +25,19 @@ Compexity:
 
 ***
 
-## Analysis
+## Pseudocode
 
 <details>
 
-<summary>Analysis - Brute Force</summary>
-
-*
-*
-* Brute Force
+<summary>Pseudocode - Brute Force</summary>
 
 
-
-
-
-* Optimized approach
 
 </details>
 
 <details>
 
-<summary>Analysis - Optimized Approach</summary>
+<summary>Pseudocode - Optimized Approach</summary>
 
 
 
@@ -86,7 +78,6 @@ Start taking notes…
 {% tabs %}
 {% tab title="Brute Force" %}
 ```
-// Some code
 ```
 {% endtab %}
 
